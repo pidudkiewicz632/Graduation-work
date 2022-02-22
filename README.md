@@ -28,6 +28,6 @@ groups)
 * Create and edit group discards
 * Recurring discards that renew at specific intervals
 * One-time discards
-* Notifications in the application about, for example, changing permissions in a group, adding a user to
-discard
+* Notifications in the application about changing permissions in a group, adding a user to
+discard etc.
 * E-mail notifications about the end of the payment deadline for the discards
